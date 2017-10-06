@@ -13,11 +13,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Strings", "04-Strings\04
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-Input", "05-Input\05-Input.vcxproj", "{F5BC8C24-8F82-4D5D-8DD4-D55DDA6B99B9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06-Intergers", "06-Intergers\06-Intergers.vcxproj", "{A80BDF2C-EE43-4D93-8084-D1A7C8ACC300}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06-Intergers", "06-Integers\06-Intergers.vcxproj", "{A80BDF2C-EE43-4D93-8084-D1A7C8ACC300}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07-Floating Point", "07-Floating Point\Floating Point.vcxproj", "{7186ABA3-7A6A-451B-A853-1D809B834B45}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08-Other Types", "08-Other Types\08-Other Types.vcxproj", "{CE9BCCCC-D699-45A0-A874-97AE0AC6E26D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08-Other Types", "08-OtherTypes\08-Other Types.vcxproj", "{CE9BCCCC-D699-45A0-A874-97AE0AC6E26D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09-If", "09-If\09-If.vcxproj", "{E0B01991-F58B-4FFC-8FE2-FD6543D75035}"
 EndProject
